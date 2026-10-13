@@ -4,18 +4,19 @@
 
 ![Architecture Diagram](./architecture.drawio.svg)
 
-### Services:
-- Nextcloud AIO (managed by Hetzner)
-- dev.iwi-hka.de (Dev Instanz)
-- mail.iwi-hka.de (Mail)
-- pass.iwi-hka.de (Vaultwarden)
-- proxy.iwi-hka.de (Proxy)
-- registration.iwi-hka.de
-- test.iwi-hka.de (Test Instanz)
-- ts.iwi-hka.de (???)
-- www.iwi-hka.de (Website)
-- API
-    - api.web.iwi-hka.de
-    - api.users.iwi-hka.de
-    - api.register.iwi-hka.de
-    - api.bulletin.iwi-hka.de
+## Services overview
+- External:
+    - [Nextcloud AIO](./docs/services/nextcloud-aio.md)
+    - [IwI Website](./docs/services/iwi-website.md)
+- Internal:
+    - [Authentik](./docs/services/authentik.md)
+    - [Discord bot](./docs/services/discord-bot.md)
+    - [Immich](./docs/services/immich.md)
+    - [Nginx Proxy Manager](./docs/services/nginx-proxy-manager.md)
+    - [Vaultwarden](./docs/services/vaultwarden.md)
+    - [Mail server](./docs/services/mail-server.md)
+    - [Proxy](./docs/services/proxy.md)
+    - [API](./docs/services/api.md)
+
+## Development
+If you want to contribute read [development.md](./docs/development.md).
