@@ -18,5 +18,8 @@
     - [Proxy](./docs/services/proxy.md)
     - [API](./docs/services/api.md)
 
+## Structure
+Most services are managed with Docker Compose and located in `\opt`.
+
 ## Development
 If you want to contribute read [development.md](./docs/development.md).
