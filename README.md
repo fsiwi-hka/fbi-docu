@@ -8,18 +8,17 @@
 - External:
     - [Nextcloud AIO](./docs/services/nextcloud-aio.md)
     - [IwI Website](./docs/services/iwi-website.md)
-- Internal:
-    - [Authentik](./docs/services/authentik.md)
     - [Discord bot](./docs/services/discord-bot.md)
     - [Immich](./docs/services/immich.md)
+- Internal:
     - [Nginx Proxy Manager](./docs/services/nginx-proxy-manager.md)
     - [Vaultwarden](./docs/services/vaultwarden.md)
     - [Mail server](./docs/services/mail-server.md)
-    - [Proxy](./docs/services/proxy.md)
     - [API](./docs/services/api.md)
+    - [Beszel](.docs/services/beszel.md)
 
 ## Structure
 Most services are managed with Docker Compose and located in `/opt`.
 
-## Development
-If you want to contribute read [development.md](./docs/development.md).
+## Kosten
+https://cloud.iwi-hka.de/f/1179453
