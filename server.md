@@ -1,12 +1,13 @@
-https://beszel.iwi-hka.de/
-
 # Hetzner Virtual  Server
 
 ## Stats:
-- TBA
+- TBD
 
 ## IP-Adresse
-- TBA
+- TBD
 
 ## Monitoring
 Monitoring gibt es über [Beszels](./docs/services/beszel.md).
+https://beszel.iwi-hka.de/
+
+domain registration, hetzner admin interface, etc

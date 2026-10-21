@@ -13,3 +13,4 @@ Docker Compose befindet sich unter `/opt/beszel`.
 Read Zugriff ist über `read@iwi-hka.de` erhältlich.
 
 ## Verantwortliche Person
+Joel

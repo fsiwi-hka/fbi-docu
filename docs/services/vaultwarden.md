@@ -6,6 +6,7 @@ Selbst gehosteter Passwort- und Secretsmanager.
 - pass.iwi-hka.de
 
 ## Allgemeine Informationen
+Interne Admin Passworts.
 
 ## Docker Compose und Speicherort
 
