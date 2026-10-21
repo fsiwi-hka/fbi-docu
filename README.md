@@ -15,7 +15,10 @@
     - [Vaultwarden](./docs/services/vaultwarden.md)
     - [Mailserver](./docs/services/mail-server.md)
     - [API](./docs/services/api.md)
-    - [Beszel](.docs/services/beszel.md)
+    - [Beszel](./docs/services/beszel.md)
+
+## Server Übersicht
+Eine Server Übersicht gibt es in [server.md](./server.md).
 
 ## Struktur
 Die meisten Dienste werden mit Docker Compose verwaltet und befinden sich unter `/opt`.
