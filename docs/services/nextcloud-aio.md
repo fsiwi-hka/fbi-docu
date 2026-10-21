@@ -1,7 +1,15 @@
 # Nextcloud AIO
-Managed Nextcloud AIO from hetzner for file sharing.
+Von Hetzner verwaltete Nextcloud-AIO-Instanz zum filesharing und zusammenarbeit.
 
-## Domain
+## Domains
 
 - https://cloud.iwi-hka.de
 - https://nx17970.your-storageshare.de/
+
+## Allgemeine Informationen
+
+## Docker Compose und Speicherort
+
+## Zugriff
+
+## Verantwortliche Person

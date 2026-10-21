@@ -1,7 +1,15 @@
 # IwI Website
-Public IwI website.
+Öffentliche IwI Webseite.
 
-## Domain
+## Domains
 
 - www.iwi-hka.de
-- dev.iwi-hka.de (git dev branch)
+- dev.iwi-hka.de (Git-Branch `dev`)
+
+## Allgemeine Informationen
+
+## Docker Compose und Speicherort
+
+## Zugriff
+
+## Verantwortliche Person

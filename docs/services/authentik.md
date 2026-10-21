@@ -1,7 +1,12 @@
 # Authentik
-Central authentication provider for all services.
+Zentraler Authentifizierungsdienst für alle Dienste.
 
-## Domain
+## Domains
 
-- TBD
+## Allgemeine Informationen
 
+## Docker Compose und Speicherort
+
+## Zugriff
+
+## Verantwortliche Person

@@ -1,15 +1,13 @@
 # Nginx Proxy Manager
-Easy web ui for managing nginx configs.
+Weboberfläche zur Verwaltung von Nginx-Konfigurationen.
 
-
-## Domain
+## Domains
 - proxy.iwi-hka.de
 
-## Allgemaine Infos
-beszel
+## Allgemeine Informationen
 
-## Docker Compose + location
+## Docker Compose und Speicherort
 
 ## Zugriff
 
-## Verantwortlicher
+## Verantwortliche Person

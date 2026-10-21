@@ -1,5 +1,11 @@
 # Immich
 
-## Domain
+## Domains
 
-- TBD
+## Allgemeine Informationen
+
+## Docker Compose und Speicherort
+
+## Zugriff
+
+## Verantwortliche Person

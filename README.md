@@ -1,24 +1,24 @@
-# FB Infrastruktur Documentation
+# FB-Infrastruktur Dokumentation
 
-## Architecture overview
+## Architekturübersicht
 
-![Architecture Diagram](./architecture.drawio.svg)
+![Architekturdiagramm](./architecture.drawio.svg)
 
-## Services overview
-- External:
+## Übersicht der Dienste
+- Extern:
     - [Nextcloud AIO](./docs/services/nextcloud-aio.md)
     - [IwI Website](./docs/services/iwi-website.md)
-    - [Discord bot](./docs/services/discord-bot.md)
+    - [Discord-Bot](./docs/services/discord-bot.md)
     - [Immich](./docs/services/immich.md)
-- Internal:
+- Intern:
     - [Nginx Proxy Manager](./docs/services/nginx-proxy-manager.md)
     - [Vaultwarden](./docs/services/vaultwarden.md)
-    - [Mail server](./docs/services/mail-server.md)
+    - [Mailserver](./docs/services/mail-server.md)
     - [API](./docs/services/api.md)
     - [Beszel](.docs/services/beszel.md)
 
-## Structure
-Most services are managed with Docker Compose and located in `/opt`.
+## Struktur
+Die meisten Dienste werden mit Docker Compose verwaltet und befinden sich unter `/opt`.
 
 ## Kosten
-https://cloud.iwi-hka.de/f/1179453
+Eine Kostenübersicht findest du [hier](https://cloud.iwi-hka.de/f/1179453).

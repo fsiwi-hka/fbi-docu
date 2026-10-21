@@ -1,6 +1,14 @@
 # Vaultwarden
-Selfhosted secret manager.
+Selbst gehosteter Passwort- und Secretsmanager.
 
-## Domain
+## Domains
 
 - pass.iwi-hka.de
+
+## Allgemeine Informationen
+
+## Docker Compose und Speicherort
+
+## Zugriff
+
+## Verantwortliche Person
