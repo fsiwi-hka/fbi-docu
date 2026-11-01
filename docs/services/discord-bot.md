@@ -1,11 +1,7 @@
 # Discord-Bot
 
-## Domains
-
 ## Allgemeine Informationen
+Für die Discord-Server authentifizierung.
 
 ## Docker Compose und Speicherort
 
-## Zugriff
-
-## Verantwortliche Person

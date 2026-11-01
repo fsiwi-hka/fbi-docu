@@ -1,15 +1,14 @@
-# IwI Website
-Öffentliche IwI Webseite.
+# IwI-Website
 
-## Domains
+## Instanzen
 
-- www.iwi-hka.de
-- dev.iwi-hka.de (Git-Branch `dev`)
+- **Produktion:** [www.iwi-hka.de](https://www.iwi-hka.de)
+- **Entwicklung:** [dev.iwi-hka.de](https://dev.iwi-hka.de) (Git-Branch `dev`)
 
 ## Allgemeine Informationen
 
-## Docker Compose und Speicherort
+Die Website ist der öffentliche Webauftritt der Fachschaft. Es gibt eine
+Produktiv- und eine Entwicklungsinstanz.
 
-## Zugriff
-
-## Verantwortliche Person
+## Zugriff und Betrieb
+TBD

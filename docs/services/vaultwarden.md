@@ -1,15 +1,18 @@
 # Vaultwarden
-Selbst gehosteter Passwort- und Secretsmanager.
 
-## Domains
+## Domain
 
-- pass.iwi-hka.de
+- [pass.iwi-hka.de](https://pass.iwi-hka.de)
 
 ## Allgemeine Informationen
-Interne Admin Passworts.
 
-## Docker Compose und Speicherort
+Vaultwarden ist ein selbst gehosteter Passwort- und Secrets-Manager. Dort werden
+interne Zugangsdaten der Fachschaft verwaltet.
+
+## Betrieb
+
+Docker Compose befindet sich unter `/opt/vaultwarden`.
 
 ## Zugriff
 
-## Verantwortliche Person
+Nur für Admins.

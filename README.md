@@ -7,7 +7,7 @@
 ## Übersicht der Dienste
 - Extern:
     - [Nextcloud AIO](./docs/services/nextcloud-aio.md)
-    - [IwI Website](./docs/services/iwi-website.md)
+    - [IwI Website](./docs/serhttps://nx17970.your-storageshare.de/vices/iwi-website.md)
     - [Discord-Bot](./docs/services/discord-bot.md)
     - [Immich](./docs/services/immich.md)
 - Intern:
@@ -24,4 +24,4 @@ Eine Server Übersicht gibt es in [server.md](./server.md).
 Die meisten Dienste werden mit Docker Compose verwaltet und befinden sich unter `/opt`.
 
 ## Kosten
-Eine Kostenübersicht findest du [hier](https://cloud.iwi-hka.de/f/1179453).
+Eine Kostenübersicht über die Infrastruktur findest du [hier](https://cloud.iwi-hka.de/f/1179453).

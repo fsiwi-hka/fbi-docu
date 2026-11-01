@@ -1,15 +1,19 @@
 # Nextcloud AIO
-Von Hetzner verwaltete Nextcloud-AIO-Instanz zum filesharing und zusammenarbeit.
 
-## Domains
+## Instanzen
 
-- https://cloud.iwi-hka.de
-- https://nx17970.your-storageshare.de/
+- **Production:** [cloud.iwi-hka.de](https://cloud.iwi-hka.de)
+- **Testing:** [nx17970.your-storageshare.de](https://nx17970.your-storageshare.de)
 
 ## Allgemeine Informationen
 
-## Docker Compose und Speicherort
+Die von Hetzner verwaltete Nextcloud-AIO-Instanz dient zum Teilen und gemeinsamen
+Bearbeiten von Dateien. Mit Collabora Online können Dokumente direkt in der
+Cloud gemeinsam bearbeitet werden.
+
+Es gibt eine Produktions- und eine Testinstanz.
 
 ## Zugriff
 
-## Verantwortliche Person
+Alle Studierenden haben Zugriff auf die Cloud. Administrationszugriff ist
+nur für Fachschafts Mitglieder.
