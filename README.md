@@ -7,7 +7,7 @@
 ## Übersicht der Dienste
 - Extern:
     - [Nextcloud AIO](./docs/services/nextcloud-aio.md)
-    - [IwI Website](./docs/serhttps://nx17970.your-storageshare.de/vices/iwi-website.md)
+    - [IwI Website](./docs/iwi-website.md)
     - [Discord-Bot](./docs/services/discord-bot.md)
     - [Immich](./docs/services/immich.md)
 - Intern:
@@ -18,7 +18,7 @@
     - [Beszel](./docs/services/beszel.md)
 
 ## Server Übersicht
-Eine Server Übersicht gibt es in [server.md](./server.md).
+Eine Server Übersicht gibt es in [server.md](./docs/server.md).
 
 ## Struktur
 Die meisten Dienste werden mit Docker Compose verwaltet und befinden sich unter `/opt`.

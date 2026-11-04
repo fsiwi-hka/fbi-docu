@@ -15,5 +15,5 @@ Es gibt eine Produktions- und eine Testinstanz.
 
 ## Zugriff
 
-Alle Studierenden haben Zugriff auf die Cloud. Administrationszugriff ist
+Alle Studierenden haben Zugriff auf die Cloud. Adminzugriff ist
 nur für Fachschafts Mitglieder.
